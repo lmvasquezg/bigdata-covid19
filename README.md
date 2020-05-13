@@ -14,9 +14,10 @@ Cada notebook puede ser ejecutado desde Jupyter con Kernel Spark.
 http://datosabiertos.esri.co/datasets/782122624f364fbdbd7e287b96c4a358_6?page=7
 
 **2. Almacenamiento de datos**
-URL de bucket S3: https://bigdatacovid.s3.amazonaws.com/
-Para acceder  los datos utilice la ruta: https://bigdatacovid.s3.amazonaws.com/<Global|Colombia>/<archivo>.csv
+Bucket S3: bigdatacovid
+Para acceder  los datos utilice la ruta: bigdatacovid.s3.amazonaws.com/<Global|Colombia>/<archivo>.csv
 Por ejemplo: https://bigdatacovid.s3.amazonaws.com/Global/confirmed_narrow.csv
+En la carpeta Datalake se encuentran los screeshhots de los datos existentes en S3.
 
 **3. Análisis exploratorio de datos**
 a. Colombia 

@@ -4,7 +4,7 @@ Proyecto de la materia Tópicos en Telemática sobre el analisis de grandes cant
 Cada carpeta contiene el notebook de Jupyter y su respectiva vista en HTML, para verla solo descargue el archivo y ábralo en su navegador.
 Cada notebook puede ser ejecutado desde Jupyter con Kernel Spark.
 
-**Técnologías:** Python, Spark, Jupyter.
+**Tecnologías:** Python, Spark, Jupyter.
 
 **Infraestructura**: Cluster EMR y Buckets S3 - Amazon Web Services.
 

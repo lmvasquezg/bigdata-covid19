@@ -7,12 +7,15 @@ Cada notebook puede ser ejecutado desde Jupyter con Kernel Spark.
 **Técnologías:** Python, Spark, Jupyter.
 **Infraestructura**: Cluster EMR - Amazon Web Services.
 
-1. Busqueda de datasets 
+**1. Busqueda de datasets** 
 - Datos globales sobre el Covid 19 ( 3 archivos): https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 - Casos nacionales de Covid-19 en Colombia (1 archivo): https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 - Cifras diarias reportadas por el Ministerio de Salud  (1 archivo): 
 http://datosabiertos.esri.co/datasets/782122624f364fbdbd7e287b96c4a358_6?page=7
 
-2. Almacenamiento de datos
-
+**2. Almacenamiento de datos**
 URL de bucket S3: http://bigdatacovid.s3-website-us-east-1.amazonaws.com/
+
+**3. Análisis exploratorio de datos**
+a. Colombia 
+Se analizaron los datos para obtener información relevante sobre ellos tales como: Situación actual colombiana, distribución geofráfica de los infectados y centros de contagio, estado y procedencia de los infectados actuales, casos por sexo y curva de casos confirmados, recuperados y muertos.
